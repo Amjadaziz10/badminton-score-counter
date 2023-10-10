@@ -1,6 +1,8 @@
-# badminton_score_counter
-
-A new Flutter project.
+# Badminton Score Counter
+A straightforward and user-friendly application designed for badminton enthusiasts and players to keep track of scores during matches. Whether you're playing singles or doubles, this app simplifies the scoring process, ensuring that you can focus on the game.
+<p align="center">
+ <img src="https://amjadaziz10.github.io/assets/img/badminton-sample.png" width="300">
+ </p>
 
 ## Getting Started
 
