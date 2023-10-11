@@ -1,4 +1,6 @@
 # Badminton Score Counter
+[![Amjadaziz10](https://circleci.com/gh/Amjadaziz10/badminton-score-counter.svg?style=svg)](https://circleci.com/gh/Amjadaziz10/badminton-score-counter)
+
 A straightforward and user-friendly application designed for badminton enthusiasts and players to keep track of scores during matches. Whether you're playing singles or doubles, this app simplifies the scoring process, ensuring that you can focus on the game.
 <p align="center">
  <img src="https://amjadaziz10.github.io/assets/img/badminton-sample.png" width="300">
